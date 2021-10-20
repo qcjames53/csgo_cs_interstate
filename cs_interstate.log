@@ -134,3 +134,296 @@ Total triangle count: 13636
 Writing c:\users\quinn\projects\csgo\cs_interstate\cs_interstate.bsp
 MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\quinn\projects\csgo\cs_interstate\cs_interstate.bsp', but we don't own that location. Allowing...
 2 minutes, 12 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\quinn\projects\csgo\cs_interstate\cs_interstate.vmf
+Map revision 2513
+Error: displacement found on a(n) func_detail entity - not supported (entity 10, brush 0)
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\quinn\projects\csgo\cs_interstate\cs_interstate.vmf
+Map revision 2513
+Error: displacement found on a(n) func_detail entity - not supported (entity 10, brush 0)
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\quinn\projects\csgo\cs_interstate\cs_interstate.vmf
+Map revision 2513
+Error: displacement found on a(n) func_detail entity - not supported (entity 10, brush 0)
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\quinn\projects\csgo\cs_interstate\cs_interstate.vmf
+Map revision 2516
+Can't find surfaceprop WoodWood_Lowdensity for material Q_CUSTOM/CORK, using default
+Patching WVT material: maps/cs_interstate/concrete/hr_c/hr_concrete_floor_05_blend_wvt_patch
+Patching WVT material: maps/cs_interstate/asphalt/hr_c/hr_asphalt_gravel_blend_001_wvt_patch
+Patching WVT material: maps/cs_interstate/concrete/hr_vertigo_concrete_wallc_blend_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 12 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\quinn\projects\csgo\cs_interstate\cs_interstate.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (380100 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 2679 texinfos to 1282
+Reduced 186 texdatas to 152 (8328 bytes to 6749)
+Writing c:\users\quinn\projects\csgo\cs_interstate\cs_interstate.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\quinn\projects\csgo\cs_interstate\cs_interstate.bsp', but we don't own that location. Allowing...
+3 seconds elapsed
+
+
+
+24 threads
+reading c:\users\quinn\projects\csgo\cs_interstate\cs_interstate.bsp
+reading c:\users\quinn\projects\csgo\cs_interstate\cs_interstate.prt
+1373 portalclusters
+3908 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 40604 visible clusters (0.00%)
+Total clusters visible: 1653461
+Average clusters visible: 1204
+Building PAS...
+Average clusters audible: 1368
+visdatasize:477437  compressed from 483296
+writing c:\users\quinn\projects\csgo\cs_interstate\cs_interstate.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\quinn\projects\csgo\cs_interstate\cs_interstate.bsp', but we don't own that location. Allowing...
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[40 texlights parsed from 'lights.rad']
+
+Loading c:\users\quinn\projects\csgo\cs_interstate\cs_interstate.bsp
+5704 faces
+8864489 square feet [1276486400.00 square inches]
+198 Displacements
+1486008 Square Feet [213985184.00 Square Inches]
+5704 patches before subdivision
+172686 patches after subdivision
+49 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 13003781, max 684
+transfer lists:  99.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(278851, 308515, 341897)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(35950, 32919, 29583)
+Build Patch/Sample Hash Table(s).....Done<0.0419 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  29/1024         1392/49152    ( 2.8%) 
+brushes                988/8192        11856/98304    (12.1%) 
+brushsides            7174/81920       57392/655360   ( 8.8%) 
+planes                3016/65536       60320/1310720  ( 4.6%) 
+vertexes              7793/65536       93516/786432   (11.9%) 
+nodes                 3228/65536      103296/2097152  ( 4.9%) 
+texinfos              1282/12288       92304/884736   (10.4%) 
+texdata                152/4096         4864/131072   ( 3.7%) 
+dispinfos              198/0           34848/0        ( 0.0%) 
+disp_verts            5902/0          118040/0        ( 0.0%) 
+disp_tris             7968/0           15936/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples     3190760/0         3190760/0        ( 0.0%) 
+faces                 5704/65536      319424/3670016  ( 8.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             2668/65536      149408/3670016  ( 4.1%) 
+facebrushes           1165/0            2330/0        ( 0.0%) 
+facebrushlists        5704/0           22816/0        ( 0.0%) 
+leaves                3258/65536      104256/2097152  ( 5.0%) 
+leaffaces             6357/65536       12714/131072   ( 9.7%) 
+leafbrushes           3014/65536        6028/131072   ( 4.6%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            36444/512000     145776/2048000  ( 7.1%) 
+edges                21573/256000      86292/1024000  ( 8.4%) 
+LDR worldlights         49/8192         4900/819200   ( 0.6%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            2/32768          24/393216   ( 0.0%) 
+waterstrips            316/32768        3160/327680   ( 1.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          6243/65536       12486/131072   ( 9.5%) 
+cubemapsamples          33/1024          528/16384    ( 3.2%) 
+overlays                32/1024        11264/360448   ( 3.1%) 
+LDR lightdata         [variable]    21598284/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      477437/16777216 ( 2.8%) 
+entdata               [variable]       59649/393216   (15.2%) 
+LDR ambient table     3258/65536       13032/262144   ( 5.0%) 
+HDR ambient table     3258/65536       13032/262144   ( 5.0%) 
+LDR leaf ambient     15989/65536      447692/1835008  (24.4%) 
+HDR leaf ambient      3258/65536       91224/1835008  ( 5.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/81544    ( 0.0%) 
+pakfile               [variable]    13030024/0        ( 0.0%) 
+physics               [variable]      380100/4194304  ( 9.1%) 
+physics terrain       [variable]       26988/1048576  ( 2.6%) 
+
+Level flags = 7d
+
+Total triangle count: 14399
+Writing c:\users\quinn\projects\csgo\cs_interstate\cs_interstate.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\quinn\projects\csgo\cs_interstate\cs_interstate.bsp', but we don't own that location. Allowing...
+2 minutes, 0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\quinn\projects\csgo\cs_interstate\cs_interstate.vmf
+Map revision 2572
+Can't find surfaceprop WoodWood_Lowdensity for material Q_CUSTOM/CORK, using default
+Patching WVT material: maps/cs_interstate/concrete/hr_c/hr_concrete_floor_05_blend_wvt_patch
+Patching WVT material: maps/cs_interstate/asphalt/hr_c/hr_asphalt_gravel_blend_001_wvt_patch
+Patching WVT material: maps/cs_interstate/concrete/hr_vertigo_concrete_wallc_blend_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 18 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\quinn\projects\csgo\cs_interstate\cs_interstate.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (434151 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 2902 texinfos to 1446
+Reduced 187 texdatas to 154 (8285 bytes to 6778)
+Writing c:\users\quinn\projects\csgo\cs_interstate\cs_interstate.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\quinn\projects\csgo\cs_interstate\cs_interstate.bsp', but we don't own that location. Allowing...
+4 seconds elapsed
+
+
+
+24 threads
+reading c:\users\quinn\projects\csgo\cs_interstate\cs_interstate.bsp
+reading c:\users\quinn\projects\csgo\cs_interstate\cs_interstate.prt
+1302 portalclusters
+3607 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 40131 visible clusters (0.00%)
+Total clusters visible: 1471057
+Average clusters visible: 1129
+Building PAS...
+Average clusters audible: 1297
+visdatasize:429217  compressed from 437472
+writing c:\users\quinn\projects\csgo\cs_interstate\cs_interstate.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\quinn\projects\csgo\cs_interstate\cs_interstate.bsp', but we don't own that location. Allowing...
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[40 texlights parsed from 'lights.rad']
+
+Loading c:\users\quinn\projects\csgo\cs_interstate\cs_interstate.bsp
+6293 faces
+8876286 square feet [1278185216.00 square inches]
+198 Displacements
+1486014 Square Feet [213986144.00 Square Inches]
+6293 patches before subdivision
+176355 patches after subdivision
+49 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 14777479, max 862
+transfer lists: 112.7 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(338880, 370359, 409466)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(41648, 38534, 35097)
+Build Patch/Sample Hash Table(s).....Done<0.0423 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  29/1024         1392/49152    ( 2.8%) 
+brushes               1125/8192        13500/98304    (13.7%) 
+brushsides            8621/81920       68968/655360   (10.5%) 
+planes                4754/65536       95080/1310720  ( 7.3%) 
+vertexes              8880/65536      106560/786432   (13.5%) 
+nodes                 3116/65536       99712/2097152  ( 4.8%) 
+texinfos              1446/12288      104112/884736   (11.8%) 
+texdata                154/4096         4928/131072   ( 3.8%) 
+dispinfos              198/0           34848/0        ( 0.0%) 
+disp_verts            5902/0          118040/0        ( 0.0%) 
+disp_tris             7968/0           15936/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples     3190760/0         3190760/0        ( 0.0%) 
+faces                 6293/65536      352408/3670016  ( 9.6%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             3262/65536      182672/3670016  ( 5.0%) 
+facebrushes           1152/0            2304/0        ( 0.0%) 
+facebrushlists        6293/0           25172/0        ( 0.0%) 
+leaves                3146/65536      100672/2097152  ( 4.8%) 
+leaffaces             7293/65536       14586/131072   (11.1%) 
+leafbrushes           3117/65536        6234/131072   ( 4.8%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            42411/512000     169644/2048000  ( 8.3%) 
+edges                25296/256000     101184/1024000  ( 9.9%) 
+LDR worldlights         49/8192         4900/819200   ( 0.6%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips            425/32768        4250/327680   ( 1.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          9501/65536       19002/131072   (14.5%) 
+cubemapsamples          33/1024          528/16384    ( 3.2%) 
+overlays                32/1024        11264/360448   ( 3.1%) 
+LDR lightdata         [variable]    21945932/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      429217/16777216 ( 2.6%) 
+entdata               [variable]       59648/393216   (15.2%) 
+LDR ambient table     3146/65536       12584/262144   ( 4.8%) 
+HDR ambient table     3146/65536       12584/262144   ( 4.8%) 
+LDR leaf ambient     15406/65536      431368/1835008  (23.5%) 
+HDR leaf ambient      3146/65536       88088/1835008  ( 4.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/81726    ( 0.0%) 
+pakfile               [variable]    13081744/0        ( 0.0%) 
+physics               [variable]      434151/4194304  (10.4%) 
+physics terrain       [variable]       27170/1048576  ( 2.6%) 
+
+Level flags = 7d
+
+Total triangle count: 16816
+Writing c:\users\quinn\projects\csgo\cs_interstate\cs_interstate.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\quinn\projects\csgo\cs_interstate\cs_interstate.bsp', but we don't own that location. Allowing...
+2 minutes, 12 seconds elapsed
